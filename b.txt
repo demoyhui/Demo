@@ -3,3 +3,4 @@ I AM B2
 I AN B3
 I AM B4
 I AN B5
+I AN B6
